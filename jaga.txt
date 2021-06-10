@@ -1,2 +1,4 @@
 git is fast
 git is opensource
+learning git pr
+learning git push
