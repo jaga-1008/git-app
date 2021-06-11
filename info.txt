@@ -4,3 +4,4 @@ added by jaga from local
 added by jaga from remote
 added by virat from lcl
 added by virat from rmt
+git merging stratergies
