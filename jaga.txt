@@ -5,3 +5,4 @@ learning git push
 added by jaga from rmt
 learning conflictdemo in local
 learning conflictdemo in remote
+git is moderate
