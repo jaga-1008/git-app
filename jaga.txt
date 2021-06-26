@@ -6,3 +6,4 @@ added by jaga from rmt
 learning conflictdemo in local
 learning conflictdemo in remote
 git is moderate
+git is light weight
