@@ -8,3 +8,4 @@ learning conflictdemo in remote
 git is moderate
 git is light weight
 tags are used for release
+git diff command
