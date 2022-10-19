@@ -49,6 +49,17 @@
 			</exclusions>
 		</dependency>
 	</dependencies>
+	<distributionManagement>
+		 <snapshotRepository>
+		    <id>nexus</id>
+		    <url>http://172.31.0.95:8081/repository/webapp-snapshot/</url>
+		 </snapshotRepository>
+		
+		<repository>
+		    <id>nexus</id>
+		    <url>http://172.31.0.95:8081/repository/webapp-release/</url>
+		</repository>
+  	</distributionManagement>
 
 	<dependencyManagement>
 		<dependencies>
